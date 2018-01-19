@@ -1,5 +1,5 @@
 # Gator-Realtor
-Real Estate Website worked on in CSC 648 Software Engineering at SFSU with five other people.
+A real estate website worked on in CSC 648 Software Engineering at SFSU with five other people.
 
 Application uses Node.js, Express, Handlebars, Bootstrap, Javascript, HTML, CSS, SQL.
 
